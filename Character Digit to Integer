@@ -1,0 +1,2 @@
+ch=input().strip().strip("'").strip('"')
+print(int(ch))
